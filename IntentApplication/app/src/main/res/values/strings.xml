@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentApplication</string>
+    <string name="editText">Digite aqui...</string>
+    <string name="botao">Clique aqui</string>
+</resources>
